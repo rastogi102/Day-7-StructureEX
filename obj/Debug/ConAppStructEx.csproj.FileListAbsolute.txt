@@ -1,0 +1,8 @@
+F:\Training Stuff\Dot netTraining\DAY-7\ConAppStructEx\ConAppStructEx\bin\Debug\ConAppStructEx.exe.config
+F:\Training Stuff\Dot netTraining\DAY-7\ConAppStructEx\ConAppStructEx\bin\Debug\ConAppStructEx.exe
+F:\Training Stuff\Dot netTraining\DAY-7\ConAppStructEx\ConAppStructEx\bin\Debug\ConAppStructEx.pdb
+F:\Training Stuff\Dot netTraining\DAY-7\ConAppStructEx\ConAppStructEx\obj\Debug\ConAppStructEx.csproj.AssemblyReference.cache
+F:\Training Stuff\Dot netTraining\DAY-7\ConAppStructEx\ConAppStructEx\obj\Debug\ConAppStructEx.csproj.SuggestedBindingRedirects.cache
+F:\Training Stuff\Dot netTraining\DAY-7\ConAppStructEx\ConAppStructEx\obj\Debug\ConAppStructEx.csproj.CoreCompileInputs.cache
+F:\Training Stuff\Dot netTraining\DAY-7\ConAppStructEx\ConAppStructEx\obj\Debug\ConAppStructEx.exe
+F:\Training Stuff\Dot netTraining\DAY-7\ConAppStructEx\ConAppStructEx\obj\Debug\ConAppStructEx.pdb
